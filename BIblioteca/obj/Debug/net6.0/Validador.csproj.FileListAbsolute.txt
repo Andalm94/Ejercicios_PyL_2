@@ -1,0 +1,12 @@
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\BIblioteca\bin\Debug\net6.0\Validador.deps.json
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\BIblioteca\bin\Debug\net6.0\Validador.dll
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\BIblioteca\bin\Debug\net6.0\Validador.pdb
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\BIblioteca\obj\Debug\net6.0\Validador.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\BIblioteca\obj\Debug\net6.0\Validador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\BIblioteca\obj\Debug\net6.0\Validador.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\BIblioteca\obj\Debug\net6.0\Validador.AssemblyInfo.cs
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\BIblioteca\obj\Debug\net6.0\Validador.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\BIblioteca\obj\Debug\net6.0\Validador.dll
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\BIblioteca\obj\Debug\net6.0\refint\Validador.dll
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\BIblioteca\obj\Debug\net6.0\Validador.pdb
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\BIblioteca\obj\Debug\net6.0\ref\Validador.dll

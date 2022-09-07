@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "La_estanteria/1.0.0": {
+        "dependencies": {
+          "BibliotecaEstanteria": "1.0.0"
+        },
+        "runtime": {
+          "La_estanteria.dll": {}
+        }
+      },
+      "BibliotecaEstanteria/1.0.0": {
+        "runtime": {
+          "BibliotecaEstanteria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "La_estanteria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaEstanteria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

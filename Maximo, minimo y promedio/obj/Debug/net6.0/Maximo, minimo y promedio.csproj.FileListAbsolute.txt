@@ -1,0 +1,15 @@
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Maximo, minimo y promedio\bin\Debug\net6.0\Maximo, minimo y promedio.exe
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Maximo, minimo y promedio\bin\Debug\net6.0\Maximo, minimo y promedio.deps.json
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Maximo, minimo y promedio\bin\Debug\net6.0\Maximo, minimo y promedio.runtimeconfig.json
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Maximo, minimo y promedio\bin\Debug\net6.0\Maximo, minimo y promedio.dll
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Maximo, minimo y promedio\bin\Debug\net6.0\Maximo, minimo y promedio.pdb
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Maximo, minimo y promedio\obj\Debug\net6.0\Maximo, minimo y promedio.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Maximo, minimo y promedio\obj\Debug\net6.0\Maximo, minimo y promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Maximo, minimo y promedio\obj\Debug\net6.0\Maximo, minimo y promedio.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Maximo, minimo y promedio\obj\Debug\net6.0\Maximo, minimo y promedio.AssemblyInfo.cs
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Maximo, minimo y promedio\obj\Debug\net6.0\Maximo, minimo y promedio.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Maximo, minimo y promedio\obj\Debug\net6.0\Maximo, minimo y promedio.dll
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Maximo, minimo y promedio\obj\Debug\net6.0\refint\Maximo, minimo y promedio.dll
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Maximo, minimo y promedio\obj\Debug\net6.0\Maximo, minimo y promedio.pdb
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Maximo, minimo y promedio\obj\Debug\net6.0\Maximo, minimo y promedio.genruntimeconfig.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Maximo, minimo y promedio\obj\Debug\net6.0\ref\Maximo, minimo y promedio.dll

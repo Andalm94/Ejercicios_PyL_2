@@ -1,0 +1,12 @@
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Cuenta\bin\Debug\net6.0\Cuenta.deps.json
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Cuenta\bin\Debug\net6.0\Cuenta.dll
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Cuenta\bin\Debug\net6.0\Cuenta.pdb
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Cuenta\obj\Debug\net6.0\Cuenta.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Cuenta\obj\Debug\net6.0\Cuenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Cuenta\obj\Debug\net6.0\Cuenta.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Cuenta\obj\Debug\net6.0\Cuenta.AssemblyInfo.cs
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Cuenta\obj\Debug\net6.0\Cuenta.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Cuenta\obj\Debug\net6.0\Cuenta.dll
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Cuenta\obj\Debug\net6.0\refint\Cuenta.dll
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Cuenta\obj\Debug\net6.0\Cuenta.pdb
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\Cuenta\obj\Debug\net6.0\ref\Cuenta.dll

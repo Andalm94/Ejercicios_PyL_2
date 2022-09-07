@@ -1,0 +1,15 @@
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\ErrorAlCubo\bin\Debug\net6.0\ErrorAlCubo.exe
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\ErrorAlCubo\bin\Debug\net6.0\ErrorAlCubo.deps.json
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\ErrorAlCubo\bin\Debug\net6.0\ErrorAlCubo.runtimeconfig.json
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\ErrorAlCubo\bin\Debug\net6.0\ErrorAlCubo.dll
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\ErrorAlCubo\bin\Debug\net6.0\ErrorAlCubo.pdb
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\ErrorAlCubo\obj\Debug\net6.0\ErrorAlCubo.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\ErrorAlCubo\obj\Debug\net6.0\ErrorAlCubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\ErrorAlCubo\obj\Debug\net6.0\ErrorAlCubo.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\ErrorAlCubo\obj\Debug\net6.0\ErrorAlCubo.AssemblyInfo.cs
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\ErrorAlCubo\obj\Debug\net6.0\ErrorAlCubo.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\ErrorAlCubo\obj\Debug\net6.0\ErrorAlCubo.dll
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\ErrorAlCubo\obj\Debug\net6.0\refint\ErrorAlCubo.dll
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\ErrorAlCubo\obj\Debug\net6.0\ErrorAlCubo.pdb
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\ErrorAlCubo\obj\Debug\net6.0\ErrorAlCubo.genruntimeconfig.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\ErrorAlCubo\obj\Debug\net6.0\ref\ErrorAlCubo.dll
