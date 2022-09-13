@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Vulcano/1.0.0": {
+        "dependencies": {
+          "Biblioteca_conversores_de_temperatura": "1.0.0"
+        },
+        "runtime": {
+          "Vulcano.dll": {}
+        }
+      },
+      "Biblioteca_conversores_de_temperatura/1.0.0": {
+        "runtime": {
+          "Biblioteca_conversores_de_temperatura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vulcano/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Biblioteca_conversores_de_temperatura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

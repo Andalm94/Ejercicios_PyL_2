@@ -1,0 +1,5 @@
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\BibliotecaTemperaturas\obj\Debug\net6.0\BibliotecaTemperaturas.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\BibliotecaTemperaturas\obj\Debug\net6.0\BibliotecaTemperaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\BibliotecaTemperaturas\obj\Debug\net6.0\BibliotecaTemperaturas.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\BibliotecaTemperaturas\obj\Debug\net6.0\BibliotecaTemperaturas.AssemblyInfo.cs
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\BibliotecaTemperaturas\obj\Debug\net6.0\BibliotecaTemperaturas.csproj.CoreCompileInputs.cache

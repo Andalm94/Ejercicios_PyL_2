@@ -1,0 +1,17 @@
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\A_contar_palabras\bin\Debug\net6.0-windows\A_contar_palabras.exe
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\A_contar_palabras\bin\Debug\net6.0-windows\A_contar_palabras.deps.json
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\A_contar_palabras\bin\Debug\net6.0-windows\A_contar_palabras.runtimeconfig.json
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\A_contar_palabras\bin\Debug\net6.0-windows\A_contar_palabras.dll
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\A_contar_palabras\bin\Debug\net6.0-windows\A_contar_palabras.pdb
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\A_contar_palabras\obj\Debug\net6.0-windows\A_contar_palabras.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\A_contar_palabras\obj\Debug\net6.0-windows\A_contar_palabras.frmContadorPalabras.resources
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\A_contar_palabras\obj\Debug\net6.0-windows\A_contar_palabras.csproj.GenerateResource.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\A_contar_palabras\obj\Debug\net6.0-windows\A_contar_palabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\A_contar_palabras\obj\Debug\net6.0-windows\A_contar_palabras.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\A_contar_palabras\obj\Debug\net6.0-windows\A_contar_palabras.AssemblyInfo.cs
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\A_contar_palabras\obj\Debug\net6.0-windows\A_contar_palabras.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\A_contar_palabras\obj\Debug\net6.0-windows\A_contar_palabras.dll
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\A_contar_palabras\obj\Debug\net6.0-windows\refint\A_contar_palabras.dll
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\A_contar_palabras\obj\Debug\net6.0-windows\A_contar_palabras.pdb
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\A_contar_palabras\obj\Debug\net6.0-windows\A_contar_palabras.genruntimeconfig.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\A_contar_palabras\obj\Debug\net6.0-windows\ref\A_contar_palabras.dll

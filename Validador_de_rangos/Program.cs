@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using Biblioteca;
 
-namespace ValidarRangos
+namespace Program
 {
 
     public class Program

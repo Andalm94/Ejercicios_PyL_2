@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Biblioteca_conversor_binario/1.0.0": {
+        "runtime": {
+          "Biblioteca_conversor_binario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Biblioteca_conversor_binario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
