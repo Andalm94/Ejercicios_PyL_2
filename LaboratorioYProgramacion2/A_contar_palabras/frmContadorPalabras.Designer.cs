@@ -34,6 +34,9 @@
             // 
             // rtxtContadorPalabras
             // 
+            this.rtxtContadorPalabras.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.rtxtContadorPalabras.Location = new System.Drawing.Point(12, 12);
             this.rtxtContadorPalabras.Name = "rtxtContadorPalabras";
             this.rtxtContadorPalabras.Size = new System.Drawing.Size(302, 205);
@@ -42,6 +45,7 @@
             // 
             // btnCalcular
             // 
+            this.btnCalcular.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.btnCalcular.Location = new System.Drawing.Point(239, 227);
             this.btnCalcular.Name = "btnCalcular";
             this.btnCalcular.Size = new System.Drawing.Size(75, 23);
@@ -50,15 +54,15 @@
             this.btnCalcular.UseVisualStyleBackColor = true;
             this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
             // 
-            // Form1
+            // frmContadorPalabras
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(326, 262);
             this.Controls.Add(this.btnCalcular);
             this.Controls.Add(this.rtxtContadorPalabras);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "frmContadorPalabras";
+            this.Text = "Contador de Palabras";
             this.ResumeLayout(false);
 
         }

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Proyecto_consola_libro/1.0.0": {
+        "dependencies": {
+          "BIblioteca_libro": "1.0.0"
+        },
+        "runtime": {
+          "Proyecto_consola_libro.dll": {}
+        }
+      },
+      "BIblioteca_libro/1.0.0": {
+        "runtime": {
+          "BIblioteca_libro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto_consola_libro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BIblioteca_libro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

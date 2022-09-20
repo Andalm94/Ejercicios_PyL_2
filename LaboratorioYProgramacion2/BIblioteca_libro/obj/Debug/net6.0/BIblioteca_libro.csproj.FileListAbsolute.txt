@@ -1,0 +1,12 @@
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\BIblioteca_libro\bin\Debug\net6.0\BIblioteca_libro.deps.json
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\BIblioteca_libro\bin\Debug\net6.0\BIblioteca_libro.dll
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\BIblioteca_libro\bin\Debug\net6.0\BIblioteca_libro.pdb
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\BIblioteca_libro\obj\Debug\net6.0\BIblioteca_libro.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\BIblioteca_libro\obj\Debug\net6.0\BIblioteca_libro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\BIblioteca_libro\obj\Debug\net6.0\BIblioteca_libro.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\BIblioteca_libro\obj\Debug\net6.0\BIblioteca_libro.AssemblyInfo.cs
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\BIblioteca_libro\obj\Debug\net6.0\BIblioteca_libro.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\BIblioteca_libro\obj\Debug\net6.0\BIblioteca_libro.dll
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\BIblioteca_libro\obj\Debug\net6.0\refint\BIblioteca_libro.dll
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\BIblioteca_libro\obj\Debug\net6.0\BIblioteca_libro.pdb
+C:\Users\Andres\Desktop\UTN\2do Cuatri\Programacion2\Ejercicios\LaboratorioYProgramacion2\BIblioteca_libro\obj\Debug\net6.0\ref\BIblioteca_libro.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Puesto_de_atencion_consola/1.0.0": {
+        "dependencies": {
+          "Biblioteca_negocio": "1.0.0"
+        },
+        "runtime": {
+          "Puesto_de_atencion_consola.dll": {}
+        }
+      },
+      "Biblioteca_negocio/1.0.0": {
+        "runtime": {
+          "Biblioteca_negocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Puesto_de_atencion_consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Biblioteca_negocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
